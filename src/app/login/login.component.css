@@ -1,0 +1,21 @@
+.registration-login-container {
+  margin: 0 auto;
+  max-width: 400px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.login-heading {
+  color: rgb(128, 0, 11);
+  margin-bottom: 20px;
+}
+
+.login-button {
+  background-color: purple;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}

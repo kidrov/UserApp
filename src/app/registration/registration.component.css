@@ -1,0 +1,22 @@
+.registration-login-container {
+    margin: 0 auto;
+    max-width: 400px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .registration-heading {
+    color: purple;
+    margin-bottom: 20px;
+  }
+  
+  .registration-button {
+    background-color: purple;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  

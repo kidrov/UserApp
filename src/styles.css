@@ -1,0 +1,7 @@
+@import '~@angular/material/prebuilt-themes/pink-bluegrey.css';
+/* In your CSS file */
+.registration-heading,
+.login-heading {
+  text-align: center; /* Optional: Center-align the text */
+  margin-bottom: 10px; /* Adjust the margin as needed */
+}
